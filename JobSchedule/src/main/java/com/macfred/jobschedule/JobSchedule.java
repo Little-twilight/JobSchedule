@@ -1,4 +1,4 @@
-package com.zhongyou.jobschedule;
+package com.macfred.jobschedule;
 
 public class JobSchedule implements Comparable<JobSchedule>, Runnable {
 	private Runnable mTask;

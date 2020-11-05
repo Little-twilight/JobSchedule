@@ -1,6 +1,6 @@
-package com.zhongyou.jobschedule;
+package com.macfred.jobschedule;
 
-import com.zhongyou.util.utils.Wnn;
+import com.macfred.util.utils.Wnn;
 
 public class TimerJobSchedule extends JobSchedule {
 	private final int mRepeat; // non-positive means infinite loop

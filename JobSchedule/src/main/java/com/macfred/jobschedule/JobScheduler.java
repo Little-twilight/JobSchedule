@@ -1,4 +1,4 @@
-package com.zhongyou.jobschedule;
+package com.macfred.jobschedule;
 
 import java.util.concurrent.Callable;
 import java.util.concurrent.Exchanger;
